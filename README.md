@@ -12,7 +12,8 @@ PretrainedModel.preprocess - Preprocess image
 LocalizationModule.extract_retrieval_features - Extract retrieval features
 LocalizationModule.extract_local_features - Extract local features
 LocalizationModule.match_features - Match features
-![Feature matchint](inlock/localization/matches.png)
+
+<img src="inlock/localization/matches.png" alt="Stairs Detection" style="width:300px; display:inline;">
 
 
 
@@ -29,10 +30,10 @@ RCNN for detection of rooms / stairs
 examples of predictions from the networks
 
 ### Door Detection
-<img src="inlock/segmentation/objectdetection/prediction_doors.png" alt="Door Detection" style="width:200px; display:inline;">
+<img src="inlock/segmentation/objectdetection/prediction_doors.png" alt="Door Detection" style="width:300px; display:inline;">
 
 ### Stairs Detection
-<img src="inlock/segmentation/objectdetection/prediction_stairs.png" alt="Stairs Detection" style="width:200px; display:inline;">
+<img src="inlock/segmentation/objectdetection/prediction_stairs.png" alt="Stairs Detection" style="width:300px; display:inline;">
 
 
 unfortunatley we had to remove the models because of space
