@@ -27,10 +27,13 @@ traditional computer vision techniques for segmentation
 RCNN for detection of rooms / stairs
 
 examples of predictions from the networks
-![Door Detection](inlock/segmentation/objectdetection/prediction_doors.png)
 
-## Stairs Detection
-![Stairs Detection](nlock/segmentation/objectdetection/prediction_stairs.png)
+### Door Detection
+<img src="inlock/segmentation/objectdetection/prediction_doors.png" alt="Door Detection" style="width:200px; display:inline;">
+
+### Stairs Detection
+<img src="inlock/segmentation/objectdetection/prediction_stairs.png" alt="Stairs Detection" style="width:200px; display:inline;">
+
 
 unfortunatley we had to remove the models because of space
 - training files run_object_detection.py
