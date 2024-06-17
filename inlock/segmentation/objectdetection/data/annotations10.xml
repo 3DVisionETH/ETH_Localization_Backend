@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>923321</id>
+      <size>12</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-06-05 07:52:46.115956+00:00</created>
+      <updated>2024-06-14 20:51:14.277406+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>11</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>925126</id>
+          <start>0</start>
+          <stop>11</stop>
+          <url>https://app.cvat.ai/api/jobs/923321</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>camilla2</username>
+        <email>mazzolenicamilla001@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>stairs</name>
+          <color>#fa3253</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>doors</name>
+          <color>#66ff66</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2024-06-14 23:16:53.881007+00:00</dumped>
+  </meta>
+  <image id="0" name="CAB_E_VF_20230609-1.png" width="3309" height="2339">
+    <box label="doors" source="manual" occluded="0" xtl="1294.78" ytl="1512.80" xbr="1333.90" ybr="1551.41" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1398.81" ytl="1481.04" xbr="1436.88" ybr="1519.07" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1446.88" ytl="1074.29" xbr="1484.95" ybr="1112.32" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1517.14" ytl="1072.44" xbr="1555.21" ybr="1110.47" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1513.44" ytl="972.61" xbr="1551.51" ybr="1010.64" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1446.88" ytl="970.76" xbr="1484.95" ybr="1008.79" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1517.14" ytl="918.99" xbr="1555.21" ybr="957.02" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1448.73" ytl="917.14" xbr="1486.80" ybr="955.17" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1552.27" ytl="841.34" xbr="1590.34" ybr="879.37" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1445.03" ytl="809.91" xbr="1483.11" ybr="847.94" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1554.11" ytl="721.16" xbr="1592.19" ybr="759.19" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1515.29" ytl="710.07" xbr="1553.36" ybr="748.10" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1445.03" ytl="710.07" xbr="1483.11" ybr="748.10" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1565.21" ytl="678.64" xbr="1603.28" ybr="716.67" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1516.26" ytl="549.00" xbr="1554.33" ybr="587.03" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1667.11" ytl="974.51" xbr="1705.19" ybr="1012.54" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1668.46" ytl="1084.87" xbr="1706.53" ybr="1122.90" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1729.02" ytl="1137.36" xbr="1767.10" ybr="1175.39" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1812.47" ytl="1140.05" xbr="1850.54" ybr="1178.08" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1855.54" ytl="1153.51" xbr="1893.61" ybr="1191.54" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1728.19" ytl="1191.62" xbr="1766.27" ybr="1229.65" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1726.35" ytl="1269.27" xbr="1764.42" ybr="1307.30" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1728.19" ytl="1324.74" xbr="1766.27" ybr="1362.77" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1761.47" ytl="1311.80" xbr="1799.55" ybr="1349.83" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1937.11" ytl="1313.65" xbr="1975.19" ybr="1351.67" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1972.24" ytl="1324.74" xbr="2010.31" ybr="1362.77" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1968.54" ytl="1271.12" xbr="2006.62" ybr="1309.15" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1972.24" ytl="1191.62" xbr="2010.31" ybr="1229.65" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2044.35" ytl="1191.62" xbr="2082.42" ybr="1229.65" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2057.29" ytl="1136.16" xbr="2095.36" ybr="1174.19" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2105.36" ytl="1154.65" xbr="2143.43" ybr="1192.67" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2133.09" ytl="1265.58" xbr="2171.16" ybr="1303.61" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2227.38" ytl="1265.58" xbr="2265.45" ybr="1303.61" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2299.49" ytl="1592.82" xbr="2337.56" ybr="1630.85" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2297.64" ytl="1670.47" xbr="2335.71" ybr="1708.50" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2262.51" ytl="1748.12" xbr="2300.58" ybr="1786.15" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2327.22" ytl="1740.73" xbr="2365.29" ybr="1778.76" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2260.66" ytl="1847.96" xbr="2298.73" ybr="1885.99" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2293.94" ytl="1886.79" xbr="2332.01" ybr="1924.82" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2327.22" ytl="1829.47" xbr="2365.29" ybr="1867.50" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="642.02" ytl="713.02" xbr="686.40" ybr="751.05" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1501.74" ytl="316.16" xbr="1546.11" ybr="354.19" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1453.29" ytl="316.16" xbr="1497.66" ybr="354.19" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1315.68" ytl="312.29" xbr="1360.05" ybr="350.32" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1307.93" ytl="354.92" xbr="1352.30" ybr="392.96" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2354.00" ytl="1107.02" xbr="2388.87" ybr="1141.88" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2279.98" ytl="1111.51" xbr="2314.84" ybr="1146.37" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2275.23" ytl="1025.81" xbr="2319.60" ybr="1063.84" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2364.95" ytl="1028.05" xbr="2409.32" ybr="1066.08" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2374.75" ytl="1168.56" xbr="2409.61" ybr="1203.42" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="513.53" ytl="1914.30" xbr="554.73" ybr="1946.00" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="678.33" ytl="1984.03" xbr="719.54" ybr="2015.72" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="675.16" ytl="2072.77" xbr="716.37" ybr="2104.47" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="906.53" ytl="1277.26" xbr="947.73" ybr="1308.95" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="992.10" ytl="1277.26" xbr="1033.30" ybr="1308.95" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1150.57" ytl="1191.69" xbr="1194.90" ybr="1226.50" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1237.87" ytl="1274.00" xbr="1275.90" ybr="1308.86" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1237.73" ytl="1193.27" xbr="1275.80" ybr="1231.30" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1199.38" ytl="1313.24" xbr="1239.57" ybr="1353.43" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2292.06" ytl="1945.14" xbr="2332.24" ybr="1985.33" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2326.83" ytl="1988.88" xbr="2367.01" ybr="2029.07" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2265.14" ytl="1990.00" xbr="2305.33" ybr="2030.19" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2325.70" ytl="2067.39" xbr="2365.89" ybr="2107.58" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2268.50" ytl="2065.15" xbr="2308.69" ybr="2105.34" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2295.42" ytl="2113.37" xbr="2335.61" ybr="2153.56" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2082.32" ytl="1926.07" xbr="2122.51" ybr="1966.26" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2348.13" ytl="1514.46" xbr="2388.32" ybr="1554.65" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1365.97" ytl="578.44" xbr="1390.17" ybr="598.82" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1360.66" ytl="596.93" xbr="1401.86" ybr="628.62" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1446.00" ytl="558.72" xbr="1487.20" ybr="590.41" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1267.68" ytl="574.00" xbr="1308.88" ybr="605.69" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1461.28" ytl="529.42" xbr="1502.48" ybr="561.11" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1495.67" ytl="408.42" xbr="1536.87" ybr="440.11" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1458.73" ytl="414.79" xbr="1499.94" ybr="446.48" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1668.90" ytl="379.12" xbr="1710.10" ybr="410.82" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1666.35" ytl="408.42" xbr="1707.55" ybr="440.11" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1740.22" ytl="386.77" xbr="1781.43" ybr="418.46" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1738.95" ytl="410.97" xbr="1780.15" ybr="442.66" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="974.38" ytl="396.28" xbr="1015.58" ybr="427.98" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="974.38" ytl="208.76" xbr="1015.58" ybr="240.46" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="905.71" ytl="211.40" xbr="946.91" ybr="243.10" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="831.75" ytl="251.02" xbr="872.96" ybr="282.71" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2033.64" ytl="391.56" xbr="2071.71" ybr="429.59" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2240.67" ytl="448.16" xbr="2275.53" ybr="483.03" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2174.64" ytl="461.00" xbr="2209.50" ybr="495.87" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2169.64" ytl="488.27" xbr="2210.84" ybr="519.96" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2305.36" ytl="477.26" xbr="2346.56" ybr="508.95" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2287.02" ytl="508.44" xbr="2328.22" ybr="540.13" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2367.72" ytl="449.75" xbr="2408.93" ybr="481.44" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="786.70" ytl="394.72" xbr="827.90" ybr="426.42" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="902.25" ytl="392.89" xbr="943.46" ybr="424.58" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2046.75" ytl="1016.49" xbr="2087.95" ybr="1048.19" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2186.14" ytl="963.30" xbr="2227.35" ybr="995.00" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="692.73" ytl="1115.53" xbr="743.44" ybr="1150.39" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2180.64" ytl="944.96" xbr="2221.84" ybr="976.66" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2282.75" ytl="1257.07" xbr="2323.95" ybr="1288.77" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2280.42" ytl="1217.54" xbr="2321.62" ybr="1249.23" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="626.18" ytl="181.23" xbr="760.23" ybr="265.21" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="375.84" ytl="870.86" xbr="487.28" ybr="953.22" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="1532.22" ytl="442.87" xbr="1648.51" ybr="546.23" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="2376.64" ytl="1206.82" xbr="2499.90" ybr="1251.01" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="2375.01" ytl="1258.22" xbr="2486.64" ybr="1304.73" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="1424.03" ytl="2164.77" xbr="1574.49" ybr="2234.21" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="561.64" ytl="1892.90" xbr="641.10" ybr="1921.97" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="569.39" ytl="1939.41" xbr="617.84" ybr="1974.29" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="391.09" ytl="1202.94" xbr="433.73" ybr="1303.72" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="503.50" ytl="1206.82" xbr="590.71" ybr="1251.40" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="499.62" ytl="1253.33" xbr="594.58" ybr="1299.85" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="1395.01" ytl="1336.67" xbr="1451.21" ybr="1427.76" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="1472.53" ytl="1373.49" xbr="1534.55" ybr="1435.51" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="1538.42" ytl="1334.73" xbr="1604.32" ybr="1433.57" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="1445.40" ytl="1658.39" xbr="1551.99" ybr="1774.67" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="646.64" ytl="879.50" xbr="681.50" ybr="914.37" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="597.65" ytl="503.84" xbr="638.85" ybr="535.53" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="649.81" ytl="478.58" xbr="691.01" ybr="510.27" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="687.84" ytl="503.93" xbr="729.04" ybr="535.62" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="637.13" ytl="310.60" xbr="678.33" ybr="342.29" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="735.38" ytl="1277.26" xbr="776.58" ybr="1308.95" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="833.63" ytl="1280.43" xbr="874.83" ybr="1312.12" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="824.12" ytl="1194.86" xbr="865.33" ybr="1226.55" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="982.59" ytl="1198.02" xbr="1023.80" ybr="1229.72" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="659.32" ytl="1505.45" xbr="700.52" ybr="1537.15" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="599.10" ytl="1527.64" xbr="640.30" ybr="1559.33" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="595.93" ytl="1581.52" xbr="637.13" ybr="1613.21" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="595.93" ytl="1679.77" xbr="637.13" ybr="1711.46" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="592.76" ytl="1752.67" xbr="633.96" ybr="1784.36" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="652.98" ytl="1755.83" xbr="694.18" ybr="1787.53" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="608.61" ytl="1946.00" xbr="649.81" ybr="1977.69" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1668.64" ytl="598.42" xbr="1703.50" ybr="633.28" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1662.95" ytl="568.80" xbr="1707.32" ybr="606.83" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1294.36" ytl="399.50" xbr="1338.74" ybr="437.53" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1646.03" ytl="308.06" xbr="1680.89" ybr="342.92" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1644.09" ytl="352.63" xbr="1678.96" ybr="387.49" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1522.00" ytl="265.42" xbr="1556.86" ybr="300.28" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1438.66" ytl="263.48" xbr="1473.52" ybr="298.34" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="CAB_FO_VF_20220825-1.png" width="3309" height="2339">
+    <box label="doors" source="manual" occluded="0" xtl="1412.18" ytl="627.45" xbr="1450.22" ybr="665.48" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1538.82" ytl="646.55" xbr="1576.85" ybr="684.59" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="1543.99" ytl="970.31" xbr="1584.18" ybr="1067.43" z_order="1">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="1426.77" ytl="990.40" xbr="1450.22" ybr="1064.08" z_order="1">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="1550.69" ytl="511.50" xbr="1667.90" ybr="551.69" z_order="1">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="1547.34" ytl="454.56" xbr="1657.85" ybr="498.10" z_order="1">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="629.72" ytl="196.69" xbr="770.37" ybr="273.72" z_order="1">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="1537.88" ytl="1361.85" xbr="1611.36" ybr="1505.62" z_order="1">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="1467.60" ytl="1310.73" xbr="1541.08" ybr="1428.94" z_order="1">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="1394.12" ytl="1361.85" xbr="1473.99" ybr="1502.42" z_order="1">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="2144.89" ytl="23.23" xbr="2240.74" ybr="138.24" z_order="1">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="539.29" ytl="1204.74" xbr="639.76" ybr="1295.16" z_order="1">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="572.78" ytl="1891.28" xbr="683.30" ybr="1964.95" z_order="1">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1445.03" ytl="809.91" xbr="1483.11" ybr="847.94" z_order="1">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="2323.80" ytl="1917.74" xbr="2426.04" ybr="1972.06" z_order="1">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="2374.92" ytl="1253.23" xbr="2493.13" ybr="1304.34" z_order="1">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="2374.92" ytl="1205.30" xbr="2486.74" ybr="1246.84" z_order="1">
+    </box>
+  </image>
+  <image id="2" name="CAB_F_VF_20220825-1.png" width="3309" height="2339">
+    <box label="doors" source="manual" occluded="0" xtl="1305.87" ytl="367.06" xbr="1344.63" ybr="400.01" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1445.03" ytl="809.91" xbr="1483.11" ybr="847.94" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2274.38" ytl="1036.39" xbr="2313.14" ybr="1069.34" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2365.47" ytl="1030.58" xbr="2404.23" ybr="1063.53" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2348.02" ytl="1108.10" xbr="2386.79" ybr="1141.05" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1519.62" ytl="787.04" xbr="1558.39" ybr="819.98" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1446.82" ytl="778.63" xbr="1485.58" ybr="811.58" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1446.82" ytl="658.47" xbr="1485.58" ybr="691.42" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1547.60" ytl="629.40" xbr="1586.37" ybr="662.35" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1408.06" ytl="629.40" xbr="1446.82" ybr="662.35" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1448.76" ytl="561.57" xbr="1487.52" ybr="594.52" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1518.53" ytl="567.38" xbr="1557.29" ybr="600.33" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1470.08" ytl="524.75" xbr="1508.84" ybr="557.69" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1499.15" ytl="520.87" xbr="1537.91" ybr="553.82" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1735.60" ytl="1193.38" xbr="1774.36" ybr="1226.33" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1774.36" ytl="1150.74" xbr="1813.12" ybr="1183.69" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1448.76" ytl="1061.59" xbr="1487.52" ybr="1094.54" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1518.53" ytl="1061.59" xbr="1557.29" ybr="1094.54" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1462.33" ytl="1125.55" xbr="1501.09" ybr="1158.49" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1503.03" ytl="1123.61" xbr="1541.79" ybr="1156.55" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1888.70" ytl="1191.44" xbr="1927.46" ybr="1224.39" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1964.29" ytl="1193.38" xbr="2003.05" ybr="1226.33" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2049.56" ytl="1195.32" xbr="2088.32" ybr="1228.26" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2129.02" ytl="1193.38" xbr="2167.78" ybr="1226.33" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2092.20" ytl="1158.49" xbr="2130.96" ybr="1191.44" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2216.24" ytl="1274.78" xbr="2255.00" ybr="1307.72" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1884.83" ytl="1272.84" xbr="1923.59" ybr="1305.79" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1950.72" ytl="1276.71" xbr="1989.48" ybr="1309.66" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2043.75" ytl="1274.78" xbr="2082.51" ybr="1307.72" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2024.37" ytl="1369.74" xbr="2063.13" ybr="1402.69" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1987.54" ytl="1365.87" xbr="2026.31" ybr="1398.81" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1846.07" ytl="1321.29" xbr="1884.83" ybr="1354.24" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1894.52" ytl="1356.18" xbr="1933.28" ybr="1389.12" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1733.66" ytl="1276.71" xbr="1772.42" ybr="1309.66" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2272.44" ytl="1111.98" xbr="2311.20" ybr="1144.93" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1619.31" ytl="1358.11" xbr="1658.07" ybr="1391.06" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2264.69" ytl="960.81" xbr="2303.45" ybr="993.76" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2262.75" ytl="883.29" xbr="2301.51" ybr="916.23" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2262.75" ytl="798.01" xbr="2301.51" ybr="830.96" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2355.78" ytl="879.41" xbr="2394.54" ybr="912.36" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2330.58" ytl="798.01" xbr="2369.34" ybr="830.96" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2353.84" ytl="960.81" xbr="2392.60" ybr="993.76" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2367.41" ytl="1168.18" xbr="2406.17" ybr="1201.13" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2330.58" ytl="720.49" xbr="2369.34" ybr="753.44" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2268.56" ytl="718.55" xbr="2307.33" ybr="751.50" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2332.52" ytl="642.97" xbr="2371.28" ybr="675.91" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2262.75" ytl="641.03" xbr="2301.51" ybr="673.98" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2326.71" ytl="559.63" xbr="2365.47" ybr="592.58" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2264.69" ytl="561.57" xbr="2303.45" ybr="594.52" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2332.52" ytl="482.11" xbr="2371.28" ybr="515.05" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2212.36" ytl="429.78" xbr="2251.12" ybr="462.73" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2249.18" ytl="325.12" xbr="2287.95" ybr="358.07" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2187.17" ytl="392.96" xbr="2225.93" ybr="425.90" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2119.33" ytl="350.32" xbr="2158.09" ybr="383.27" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2039.87" ytl="352.26" xbr="2078.63" ybr="385.20" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1960.41" ytl="352.26" xbr="1999.17" ybr="385.20" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1882.89" ytl="348.38" xbr="1921.65" ybr="381.33" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1803.43" ytl="348.38" xbr="1842.19" ybr="381.33" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1747.22" ytl="377.45" xbr="1785.99" ybr="410.40" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1720.09" ytl="360.01" xbr="1758.85" ybr="392.96" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1751.10" ytl="414.28" xbr="1789.86" ybr="447.22" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1644.51" ytl="363.89" xbr="1683.27" ybr="396.83" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2330.58" ytl="1455.02" xbr="2369.34" ybr="1487.96" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2301.51" ytl="1456.96" xbr="2340.27" ybr="1489.90" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2348.02" ytl="1507.34" xbr="2386.79" ybr="1540.29" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2262.75" ytl="1507.34" xbr="2301.51" ybr="1540.29" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2260.81" ytl="1592.62" xbr="2299.57" ybr="1625.57" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2318.95" ytl="1586.81" xbr="2357.72" ybr="1619.75" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2262.75" ytl="1672.08" xbr="2301.51" ybr="1705.03" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2320.89" ytl="1677.89" xbr="2359.65" ybr="1710.84" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2354.78" ytl="1397.02" xbr="2393.54" ybr="1429.97" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2318.44" ytl="1749.75" xbr="2357.20" ybr="1782.70" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2258.16" ytl="1753.77" xbr="2296.92" ybr="1786.72" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2270.21" ytl="1826.11" xbr="2308.97" ybr="1859.06" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2314.42" ytl="1826.11" xbr="2353.18" ybr="1859.06" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2318.44" ytl="1986.86" xbr="2357.20" ybr="2019.81" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2318.44" ytl="2071.25" xbr="2357.20" ybr="2104.20" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2318.44" ytl="2147.61" xbr="2357.20" ybr="2180.56" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1230.65" ytl="1271.96" xbr="1269.41" ybr="1304.91" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1228.33" ytl="1190.56" xbr="1267.09" ybr="1223.51" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1153.90" ytl="1192.89" xbr="1192.66" ybr="1225.84" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1074.83" ytl="1192.89" xbr="1113.59" ybr="1225.84" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1072.50" ytl="1274.29" xbr="1111.27" ybr="1307.24" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1126.00" ytl="1316.15" xbr="1164.76" ybr="1349.10" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1337.63" ytl="1360.34" xbr="1376.39" ybr="1393.29" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="914.36" ytl="1197.54" xbr="953.12" ybr="1230.49" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="921.34" ytl="1271.96" xbr="960.10" ybr="1304.91" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="844.59" ytl="1274.29" xbr="883.35" ybr="1307.24" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="744.58" ytl="1271.96" xbr="783.34" ybr="1304.91" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="758.54" ytl="1360.34" xbr="797.30" ybr="1393.29" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="581.79" ytl="1369.64" xbr="620.55" ybr="1402.59" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="560.85" ytl="1444.06" xbr="599.62" ybr="1477.01" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="739.93" ytl="1490.58" xbr="778.69" ybr="1523.52" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="667.84" ytl="1453.37" xbr="706.60" ybr="1486.31" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="632.95" ytl="1455.69" xbr="671.71" ybr="1488.64" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1212.05" ytl="409.14" xbr="1250.81" ybr="442.08" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1212.05" ytl="381.23" xbr="1250.81" ybr="414.17" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1165.53" ytl="350.99" xbr="1204.29" ybr="383.94" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1081.81" ytl="348.67" xbr="1120.57" ybr="381.62" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1002.73" ytl="353.32" xbr="1041.49" ybr="386.27" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="923.66" ytl="353.32" xbr="962.42" ybr="386.27" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="839.94" ytl="353.32" xbr="878.70" ybr="386.27" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="684.12" ytl="406.81" xbr="722.88" ybr="439.76" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="779.47" ytl="411.46" xbr="818.23" ybr="444.41" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="681.79" ytl="325.41" xbr="720.55" ybr="358.36" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1130.92" ytl="267.48" xbr="1169.68" ybr="300.43" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1026.43" ytl="267.48" xbr="1065.19" ybr="300.43" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1238.89" ytl="367.06" xbr="1277.65" ybr="400.01" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="686.31" ytl="1112.21" xbr="725.07" ybr="1145.16" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="610.95" ytl="1115.00" xbr="649.72" ybr="1147.95" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="599.79" ytl="1034.07" xbr="638.55" ybr="1067.02" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="694.68" ytl="1031.28" xbr="733.44" ybr="1064.22" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="429.55" ytl="1248.96" xbr="468.31" ybr="1281.91" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="432.34" ytl="1215.47" xbr="471.10" ybr="1248.42" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1639.99" ytl="1214.66" xbr="1678.75" ybr="1247.61" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1638.37" ytl="1251.81" xbr="1677.14" ybr="1284.76" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1318.59" ytl="1216.28" xbr="1357.35" ybr="1249.23" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1318.59" ytl="1253.42" xbr="1357.35" ybr="1286.37" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1461.41" ytl="321.31" xbr="1500.17" ybr="354.26" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1506.58" ytl="318.98" xbr="1545.34" ybr="351.92" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1303.30" ytl="307.29" xbr="1342.06" ybr="340.24" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1317.32" ytl="325.99" xbr="1356.08" ybr="358.93" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1442.72" ytl="269.91" xbr="1481.48" ybr="302.86" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1526.05" ytl="272.25" xbr="1564.81" ybr="305.19" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1479.17" ytl="184.38" xbr="1517.93" ybr="217.32" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1317.20" ytl="458.80" xbr="1337.80" ybr="476.60" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1374.23" ytl="458.32" xbr="1394.83" ybr="476.12" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1411.61" ytl="284.48" xbr="1432.21" ybr="302.28" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1410.68" ytl="263.92" xbr="1431.28" ybr="281.72" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1409.74" ytl="238.68" xbr="1430.34" ybr="256.48" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1414.42" ytl="219.05" xbr="1435.02" ybr="236.85" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="637.87" ytl="193.85" xbr="766.24" ybr="269.20" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="515.07" ytl="1212.49" xbr="637.87" ybr="1251.57" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="515.07" ytl="1257.15" xbr="637.87" ybr="1293.43" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="2385.47" ytl="1213.33" xbr="2494.32" ybr="1249.61" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="2379.34" ytl="1254.36" xbr="2504.92" ybr="1299.01" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="1402.55" ytl="1354.83" xbr="1463.95" ybr="1488.79" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="1477.90" ytl="1312.96" xbr="1542.09" ybr="1432.97" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="1553.25" ytl="1360.41" xbr="1603.49" ybr="1505.53" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="1463.95" ytl="1661.82" xbr="1547.67" ybr="1770.66" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="703.19" ytl="1486.22" xbr="738.18" ybr="1507.75" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="575.16" ytl="1927.71" xbr="682.51" ybr="1966.05" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="2323.36" ytl="1927.71" xbr="2419.20" ybr="1969.88" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="2150.84" ytl="37.67" xbr="2239.01" ybr="125.84" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="CAB_GO_VF_20220825-1.png" width="3309" height="2339">
+    <box label="stairs" source="manual" occluded="0" xtl="1545.10" ytl="1371.82" xbr="1606.44" ybr="1490.66" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="1468.43" ytl="1375.65" xbr="1533.60" ybr="1483.00" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="1395.59" ytl="1364.15" xbr="1460.76" ybr="1490.66" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="521.49" ytl="1252.97" xbr="628.83" ybr="1295.14" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="525.32" ytl="1210.80" xbr="628.83" ybr="1249.14" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="1560.44" ytl="520.72" xbr="1663.95" ybr="547.56" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="1548.94" ytl="455.55" xbr="1652.45" ybr="497.72" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="2384.70" ytl="1252.97" xbr="2492.04" ybr="1298.98" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="2377.03" ytl="1203.13" xbr="2480.54" ybr="1249.14" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="2143.17" ytl="30.00" xbr="2235.18" ybr="125.84" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="CAB_G_VF_20220825-1.png" width="3309" height="2339">
+    <box label="doors" source="manual" occluded="0" xtl="2348.31" ytl="640.62" xbr="2378.96" ybr="669.47" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2363.92" ytl="1037.74" xbr="2403.50" ybr="1064.48" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2270.83" ytl="1033.46" xbr="2307.21" ybr="1064.48" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2355.36" ytl="962.84" xbr="2392.80" ybr="989.59" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2264.41" ytl="963.91" xbr="2299.72" ybr="990.66" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2345.73" ytl="881.52" xbr="2382.10" ybr="910.41" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2279.39" ytl="877.25" xbr="2313.63" ybr="909.34" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2345.73" ytl="799.14" xbr="2379.96" ybr="831.24" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2278.21" ytl="800.64" xbr="2314.59" ybr="828.46" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2347.86" ytl="722.65" xbr="2378.51" ybr="751.95" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2280.25" ytl="723.10" xbr="2311.35" ybr="750.60" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1302.83" ytl="307.41" xbr="1335.73" ybr="335.81" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1464.96" ytl="326.66" xbr="1496.06" ybr="355.50" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1510.91" ytl="328.21" xbr="1542.01" ybr="357.06" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1531.16" ytl="272.91" xbr="1562.26" ybr="301.76" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1440.24" ytl="270.59" xbr="1470.93" ybr="304.08" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1413.56" ytl="218.78" xbr="1431.48" ybr="234.36" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1412.00" ytl="239.81" xbr="1430.70" ybr="256.95" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1409.67" ytl="262.40" xbr="1431.48" ybr="281.09" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1412.00" ytl="284.21" xbr="1430.70" ybr="299.01" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1088.77" ytl="367.93" xbr="1119.87" ybr="396.78" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="806.36" ytl="327.50" xbr="828.16" ybr="346.19" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="601.80" ytl="1169.45" xbr="632.45" ybr="1198.30" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="621.99" ytl="1111.13" xbr="652.64" ybr="1139.98" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="600.68" ytl="1033.75" xbr="631.33" ybr="1062.59" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="697.14" ytl="1034.87" xbr="727.79" ybr="1063.71" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="870.98" ytl="1239.22" xbr="903.88" ybr="1267.61" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="824.99" ytl="1204.45" xbr="857.90" ybr="1232.84" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="868.73" ytl="1176.41" xbr="901.64" ybr="1204.81" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="950.61" ytl="1129.30" xbr="983.51" ybr="1157.70" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="940.51" ytl="1094.54" xbr="973.42" ybr="1122.93" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="694.89" ytl="1113.60" xbr="727.79" ybr="1142.00" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="567.03" ytl="1322.21" xbr="599.94" ybr="1350.61" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="683.67" ytl="1311.00" xbr="716.58" ybr="1339.39" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="660.90" ytl="1329.69" xbr="690.06" ybr="1358.85" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="580.15" ytl="1352.13" xbr="607.07" ybr="1381.29" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="656.42" ytl="1264.64" xbr="685.58" ybr="1296.05" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="1397.25" ytl="1362.92" xbr="1464.23" ybr="1496.88" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="1475.39" ytl="1374.08" xbr="1534.00" ybr="1491.30" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="1539.58" ytl="1354.55" xbr="1600.98" ybr="1488.51" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="1545.16" ytl="455.90" xbr="1648.42" ybr="503.35" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="1553.53" ytl="506.14" xbr="1651.21" ybr="561.96" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="1570.28" ytl="846.62" xbr="1628.88" ybr="921.97" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="2376.82" ytl="1198.26" xbr="2482.87" ybr="1248.50" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="2382.40" ytl="1251.29" xbr="2485.67" ybr="1304.31" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="682.56" ytl="203.53" xbr="722.75" ybr="287.92" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="524.93" ytl="1210.08" xbr="627.26" ybr="1251.94" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="524.93" ytl="1251.94" xbr="634.24" ybr="1286.82" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="2143.17" ytl="26.17" xbr="2242.85" ybr="125.84" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2279.42" ytl="560.00" xbr="2318.50" ybr="593.49" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2360.36" ytl="484.65" xbr="2391.06" ybr="518.14" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2349.66" ytl="564.00" xbr="2380.76" ybr="592.84" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2278.90" ytl="641.97" xbr="2311.80" ybr="670.37" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2350.01" ytl="1116.91" xbr="2389.59" ybr="1140.45" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2272.97" ytl="1117.98" xbr="2311.49" ybr="1144.73" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2140.99" ytl="1277.47" xbr="2165.22" ybr="1305.74" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2330.76" ytl="1268.05" xbr="2359.02" ybr="1303.05" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2315.95" ytl="1325.93" xbr="2342.87" ybr="1358.23" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2391.91" ytl="1355.95" xbr="2423.01" ybr="1384.80" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2406.71" ytl="1319.61" xbr="2437.81" ybr="1348.46" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2007.19" ytl="1338.82" xbr="2037.88" ybr="1372.31" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2370.37" ytl="1168.87" xbr="2401.47" ybr="1197.72" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2146.96" ytl="1199.83" xbr="2178.06" ybr="1228.67" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2014.16" ytl="1128.72" xbr="2047.06" ybr="1157.12" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2257.32" ytl="1310.67" xbr="2290.22" ybr="1339.06" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1578.33" ytl="1147.86" xbr="1609.03" ybr="1181.35" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1575.53" ytl="1320.24" xbr="1606.64" ybr="1349.08" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1613.18" ytl="1359.83" xbr="1644.28" ybr="1388.67" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1678.48" ytl="1221.80" xbr="1711.39" ybr="1250.20" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1675.24" ytl="1250.36" xbr="1708.14" ybr="1278.76" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1502.59" ytl="1127.04" xbr="1535.49" ybr="1155.44" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1468.84" ytl="1129.64" xbr="1501.74" ybr="1158.03" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1397.04" ytl="1152.78" xbr="1428.14" ybr="1181.63" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1395.75" ytl="1321.53" xbr="1426.85" ybr="1350.38" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1455.33" ytl="969.39" xbr="1488.23" ybr="997.78" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1455.27" ytl="601.27" xbr="1486.37" ybr="630.12" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1190.79" ytl="1066.62" xbr="1223.69" ybr="1095.01" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1159.97" ytl="1405.57" xbr="1192.88" ybr="1433.97" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="702.85" ytl="482.60" xbr="733.95" ybr="511.44" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="611.76" ytl="482.60" xbr="642.86" ybr="511.44" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="693.16" ytl="560.12" xbr="724.26" ybr="588.97" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="623.39" ytl="564.00" xbr="654.49" ybr="592.84" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="620.55" ytl="641.75" xbr="653.45" ybr="670.14" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="690.32" ytl="641.75" xbr="723.22" ybr="670.14" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="690.32" ytl="723.14" xbr="723.22" ybr="751.54" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="622.49" ytl="721.21" xbr="655.39" ybr="749.60" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="611.76" ytl="391.51" xbr="642.86" ybr="420.36" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="609.82" ytl="323.68" xbr="640.92" ybr="352.52" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="667.96" ytl="323.68" xbr="699.06" ybr="352.52" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="636.84" ytl="245.77" xbr="675.92" ybr="279.26" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1311.40" ytl="368.25" xbr="1342.50" ybr="397.10" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1245.51" ytl="362.44" xbr="1276.61" ybr="391.28" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1652.50" ytl="364.38" xbr="1683.60" ybr="393.22" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1723.31" ytl="364.60" xbr="1756.21" ybr="393.00" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1880.29" ytl="364.60" xbr="1913.19" ybr="393.00" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1963.63" ytl="364.60" xbr="1996.53" ybr="393.00" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1992.36" ytl="411.24" xbr="2025.26" ybr="439.64" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1992.36" ytl="384.76" xbr="2025.26" ybr="413.16" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2264.18" ytl="319.34" xbr="2297.09" ybr="347.73" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2267.30" ytl="394.89" xbr="2300.20" ybr="423.28" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2221.35" ytl="436.17" xbr="2254.25" ybr="464.56" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2211.99" ytl="151.09" xbr="2244.89" ybr="179.49" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2262.61" ytl="129.29" xbr="2295.52" ybr="157.68" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2303.89" ytl="113.71" xbr="2336.80" ybr="142.11" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="2221.33" ytl="243.00" xbr="2254.24" ybr="271.40" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="623.39" ytl="801.87" xbr="654.49" ybr="830.71" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="691.13" ytl="800.75" xbr="724.03" ybr="829.14" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="625.18" ytl="878.81" xbr="658.08" ybr="907.20" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="693.82" ytl="881.50" xbr="726.72" ybr="909.90" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="610.37" ytl="963.60" xbr="643.28" ybr="991.99" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="703.24" ytl="963.60" xbr="736.14" ybr="991.99" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="802.84" ytl="411.79" xbr="835.74" ybr="440.18" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1061.24" ytl="383.52" xbr="1094.15" ybr="411.92" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1061.24" ytl="414.48" xbr="1094.15" ybr="442.87" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="656.13" ytl="421.21" xbr="689.04" ybr="449.60" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="725.17" ytl="1271.69" xbr="758.07" ybr="1300.08" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="820.05" ytl="1271.69" xbr="852.96" ybr="1300.08" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1291.78" ytl="411.96" xbr="1324.68" ybr="440.36" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1313.56" ytl="453.66" xbr="1346.47" ybr="482.05" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1371.03" ytl="451.03" xbr="1403.94" ybr="479.42" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1473.20" ytl="527.65" xbr="1506.10" ybr="556.05" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1499.45" ytl="526.05" xbr="1530.10" ybr="554.89" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="1319.97" ytl="327.66" xbr="1352.87" ybr="356.06" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="CAB_H_VF_20220825-1.png" width="3309" height="2339">
+    <box label="doors" source="manual" occluded="0" xtl="705.28" ytl="958.81" xbr="736.79" ybr="992.90" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="623.97" ytl="797.11" xbr="655.48" ybr="831.21" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="693.13" ytl="797.11" xbr="724.64" ybr="831.21" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="623.03" ytl="875.62" xbr="654.55" ybr="909.72" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="690.33" ytl="873.75" xbr="721.84" ybr="907.85" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="609.01" ytl="960.68" xbr="640.53" ybr="994.77" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="689.39" ytl="389.61" xbr="720.90" ybr="423.71" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="605.40" ytl="1032.55" xbr="636.91" ybr="1066.65" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="622.68" ytl="1112.06" xbr="654.20" ybr="1146.16" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="602.43" ytl="1161.91" xbr="633.95" ybr="1196.00" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="697.45" ytl="1031.84" xbr="728.97" ybr="1065.93" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="696.67" ytl="1112.84" xbr="728.19" ybr="1146.94" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="838.43" ytl="1200.07" xbr="869.94" ybr="1234.17" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="642.15" ytl="1262.38" xbr="673.67" ybr="1296.48" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="744.96" ytl="1263.16" xbr="776.48" ybr="1297.26" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="653.84" ytl="1318.46" xbr="685.35" ybr="1352.56" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="562.71" ytl="1316.12" xbr="594.22" ybr="1350.22" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="577.51" ytl="1347.28" xbr="609.02" ybr="1381.37" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="836.87" ytl="1264.72" xbr="868.38" ybr="1298.81" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="871.14" ytl="1229.67" xbr="902.65" ybr="1263.77" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="829.08" ytl="1318.46" xbr="860.60" ybr="1352.56" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="864.13" ytl="1306.00" xbr="895.65" ybr="1340.09" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="517.95" ytl="1205.42" xbr="634.24" ybr="1249.61" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="513.30" ytl="1254.26" xbr="636.56" ybr="1307.75" z_order="0">
+    </box>
+    <box label="stairs" source="manual" occluded="0" xtl="638.89" ytl="198.41" xbr="731.92" ybr="265.85" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="609.70" ytl="480.60" xbr="641.20" ybr="514.70" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="623.03" ytl="561.58" xbr="654.55" ybr="595.68" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="691.26" ytl="561.58" xbr="722.77" ybr="595.68" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="623.97" ytl="638.22" xbr="655.48" ybr="672.32" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="692.19" ytl="639.16" xbr="723.71" ybr="673.26" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="622.10" ytl="718.60" xbr="653.61" ybr="752.70" z_order="0">
+    </box>
+    <box label="doors" source="manual" occluded="0" xtl="691.26" ytl="716.73" xbr="722.77" ybr="750.83" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="CAB_J_VF_20220825-1.png" width="3309" height="2339">
+    <box label="doors" source="manual" occluded="0" xtl="1445.03" ytl="809.91" xbr="1483.11" ybr="847.94" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="HG_D_VF_20240601-1.png" width="3309" height="2339">
+    <box label="doors" source="manual" occluded="0" xtl="1445.03" ytl="809.91" xbr="1483.11" ybr="847.94" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="HG_FO_VF_20230710-1.png" width="3309" height="2339">
+    <box label="doors" source="manual" occluded="0" xtl="1445.03" ytl="809.91" xbr="1483.11" ybr="847.94" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="HG_FO_VF_20230710-2-1.png" width="3309" height="2339">
+    <box label="doors" source="manual" occluded="0" xtl="1445.03" ytl="809.91" xbr="1483.11" ybr="847.94" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="HG_G_VF_20240115-2-1.png" width="3309" height="2339">
+  </image>
+  <image id="11" name="HG_H_VF_20240118-1.png" width="3309" height="2339">
+    <box label="doors" source="manual" occluded="0" xtl="1445.03" ytl="809.91" xbr="1483.11" ybr="847.94" z_order="0">
+    </box>
+  </image>
+</annotations>
